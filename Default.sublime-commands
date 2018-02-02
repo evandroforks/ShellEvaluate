@@ -1,6 +1,6 @@
 [
 	{
-		"caption": "Evaluate: Evaluate Selections",
+		"caption": "EvaluateShell: Evaluate Selections",
 		"command": "evaluate"
 	}
 ]
